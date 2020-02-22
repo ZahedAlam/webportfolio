@@ -63,15 +63,13 @@ section{
     height: 60%;
 }
 #fullstack{
-    border-left: 10px solid;
-    border-color: lightsalmon;
-    border-image: linear-gradient(180deg lightsalmon tomato);
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, rgb(233, 49, 17));
     border-image-slice: 1;
-    
+    background-color: white;
 }
 #babystack{
-    border-left: 10px solid;
-    border-color: steelblue;
-    border-image: linear-gradient(180deg blue cyan);
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
