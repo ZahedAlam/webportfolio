@@ -38,6 +38,10 @@ section{
     height: 500px;
     margin-bottom: 3%;
 }
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
 
 .button-hire{
     text-decoration: none;
@@ -64,12 +68,18 @@ section{
 }
 #fullstack{
     border-left: 7px solid;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
     border-image: linear-gradient(180deg, lightsalmon, rgb(233, 49, 17));
     border-image-slice: 1;
     background-color: white;
 }
-#babystack{
+#babystack {
     border-left: 7px solid;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
